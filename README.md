@@ -1,1 +1,1 @@
-his is a portfolio website containing all information and about the profile holder.
+This is a portfolio website containing all information and about the profile holder.
